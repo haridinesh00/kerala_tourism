@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/haridinesh00.github.io/kerala_tourism/static/css/main.6ce0040f.css",
+    "main.js": "/haridinesh00.github.io/kerala_tourism/static/js/main.6f4b5395.js",
+    "static/js/787.d3befce1.chunk.js": "/haridinesh00.github.io/kerala_tourism/static/js/787.d3befce1.chunk.js",
+    "static/media/logo.svg": "/haridinesh00.github.io/kerala_tourism/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/haridinesh00.github.io/kerala_tourism/index.html",
+    "main.6ce0040f.css.map": "/haridinesh00.github.io/kerala_tourism/static/css/main.6ce0040f.css.map",
+    "main.6f4b5395.js.map": "/haridinesh00.github.io/kerala_tourism/static/js/main.6f4b5395.js.map",
+    "787.d3befce1.chunk.js.map": "/haridinesh00.github.io/kerala_tourism/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce0040f.css",
+    "static/js/main.6f4b5395.js"
+  ]
+}
