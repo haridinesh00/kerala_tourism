@@ -1,0 +1,24 @@
+div.videomain {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+div.videodesc {
+  width: 100%;
+  padding: 15px;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+  font-size: 20px;
+}
+#exp {
+    border: 1px solid white;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+    font-weight: lighter;
+}

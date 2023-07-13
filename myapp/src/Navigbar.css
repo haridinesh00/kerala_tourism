@@ -1,0 +1,17 @@
+.mega{
+    position: relative;
+    margin-bottom: 5rem;
+}
+.cartop {
+    position: absolute;
+    top: 0;
+    z-index: 0;
+    margin-bottom: 5rem;
+}
+.barnav {
+    height: 6rem;
+    background-color: rgba(255, 255, 255, .1);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
+    top: 0;
+    z-index: 9;
+}

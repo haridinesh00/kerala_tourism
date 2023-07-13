@@ -1,0 +1,40 @@
+.slideCar {
+  width: 85%;
+}
+.btn {
+    background-color: #036;
+    border-radius: 0;
+}
+.container {
+  display: inline;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  bottom: -255px;
+  left: 12px;
+  right: 0;
+  background-color: green;
+  overflow: hidden;
+  width: 94%;
+  height: 0;
+  transition: .5s ease;
+  opacity: 75%;
+}
+
+.container:hover .overlay {
+  height: 33rem;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
